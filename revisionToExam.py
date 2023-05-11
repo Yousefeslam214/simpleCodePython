@@ -54,6 +54,17 @@ c = 5;
 
 
 #####7-Python Program to Generate a Random Number
-import random
+# import random
 
-print(random.randint(0,9))
+# print(random.randint(0,9))
+
+
+#####8-Python Program to Convert Kilometers to Miles
+# kilometer = float(input('enter km '))
+
+# miles = kilometer * 0.621
+
+# print('%0.2f km is = to %0.2f miles'%(kilometer,miles))
+
+
+#####9-Python Program to Convert Celsius To Fahrenheit
